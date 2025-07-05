@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 🍽️ WS Restaurant Management System
 
-## Getting Started
+WS Restaurant Management System is a full-stack, multi-role, real-time application built with modern technologies like **Next.js**, **Redux Toolkit**, **GraphQL**, **PostgreSQL**, **Redis**, **Socket.IO**, and **NextAuth.js**.
 
-First, run the development server:
+It is designed to streamline operations for restaurants of all sizes — managing everything from tables to reservations, orders to accounting, and customers to staff.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🔐 **Authentication & Authorization:** Role-based access for Admin, Staff, and Customers.
+- 🪑 **Table Management:** Real-time table status, availability updates, and seating control.
+- 🧾 **Order Management:** Live order creation, modification, and kitchen sync via Socket.IO.
+- 🍳 **Kitchen Dashboard:** Real-time cooking updates, order priorities, and serve status.
+- 📅 **Reservation System:** Schedule-based reservations with approval and table lock logic.
+- 🧑‍🤝‍🧑 **Membership & CRM:** Loyalty program, customer preferences, last visit tracking.
+- 🧑‍🍳 **Staff Management:** Roles, shift allocation, attendance, and user access control.
+- 💵 **Accounting:** Transaction tracking, sales reports, daily income summary, and invoice history.
+- 🔔 **Notification System:** Real-time and email-based alerts for different user roles.
+- 🌗 **Light/Dark/Branding Modes:** Dynamic theme with brand-based color scheme and UI.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+| Layer      | Technologies Used                            |
+| ---------- | -------------------------------------------- |
+| Frontend   | Next.js, Tailwind CSS, Redux Toolkit         |
+| Backend    | GraphQL (Apollo), PostgreSQL (Prisma), Redis |
+| Auth       | NextAuth.js (Credential/Google), RBAC        |
+| Realtime   | Socket.IO                                    |
+| Deployment | Vercel, Railway/Render                       |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📈 Who Is It For?
 
-## Deploy on Vercel
+- Multi-table Restaurants
+- Food Chains and Cafés
+- Cloud Kitchens
+- Hotel Dining Departments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👨‍💻 Author
+
+**Wahed Nur**  
+MERN Stack Developer
+✉️: <wahednur@gmail.com>
+📞: +88 01917839303
+[Portfolio](https://wahednur.vercel.app) | [LinkedIn](https://www.linkedin.com/in/wahednur/)

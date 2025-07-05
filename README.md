@@ -42,6 +42,14 @@ It is designed to streamline operations for restaurants of all sizes — managin
 
 ---
 
+### 🙋‍♂️ Developer Note
+
+This project is fully planned, designed, and developed by **Wahed Nur** as a solo full-stack MERN developer initiative. From user experience planning to backend architecture, every aspect of this system was built from scratch to learn, solve real-world restaurant problems, and create a scalable SaaS product foundation.
+
+> 🚀 Tools Used: Figma, Notion, Trello, Prisma, GraphQL, Next.js, PostgreSQL, Socket.IO
+
+## If you're a recruiter, business owner, or investor looking for someone who can independently manage, architect, and deliver a real-time web system — I’d love to connect
+
 ## 👨‍💻 Author
 
 **Wahed Nur**  
